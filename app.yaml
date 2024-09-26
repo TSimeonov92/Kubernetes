@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://https://github.com/TSimeonov92/Kubernetes.git
+    repoURL: https://github.com/TSimeonov92/Kubernetes.git
     targetRevision: HEAD
     path: ArgoCD/example-app
     directory:
